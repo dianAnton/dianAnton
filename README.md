@@ -36,17 +36,15 @@
                <br>
 <h3 align="center">Evangelio de Marcos - Webpage</h3>
 <div align="center">                                       
-<a href="https://github.com/dianAnton/gospel-of-mark-web-project" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Evangelio de Marcos - Webpage"></a>
+<a href="https://github.com/dianAnton/gospel-of-mark-web-project" target="_blank"><img src="https://github.com/dianAnton/gospel-of-mark-web-project/blob/main/screens.png?raw=true" width="400" alt="Evangelio de Marcos - Webpage"></a>
 <br>
 <p>
 <a href="https://github.com/dianAnton/gospel-of-mark-web-project" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>El Evangelio de Marcos es un relato dinámico y poderoso sobre la vida, muerte y resurrección de Jesús. Con un estilo directo y lleno de acción, nos invita a conocer a Cristo como el Siervo y Salvador, revelando su amor y autoridad en cada página. Explora este mensaje transformador y sumérgete en el Evangelio que sigue impactando vidas hasta hoy.</p>
 </div>                                                             
 </table> 
 
