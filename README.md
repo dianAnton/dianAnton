@@ -45,7 +45,23 @@
 </a>
 </p>
 </p>El Evangelio de Marcos es un relato dinámico y poderoso sobre la vida, muerte y resurrección de Jesús. Con un estilo directo y lleno de acción, nos invita a conocer a Cristo como el Siervo y Salvador, revelando su amor y autoridad en cada página. Explora este mensaje transformador y sumérgete en el Evangelio que sigue impactando vidas hasta hoy.</p>
-</div>                                                             
+</div>     
+
+
+<td width="50%">
+               <br>
+<h3 align="center">Iglesia Jesús Único Salvador (IJUS) - Webpage</h3>
+<div align="center">                                       
+<a href="https://github.com/dianAnton/ijus-chile-web-project " target="_blank"><img src="https://github.com/dianAnton/ijus-chile-web-project/blob/main/presentation.png?raw=true" width="400" alt="Iglesia Jesús Único Salvador (IJUS) - Webpage"></a>
+<br>
+<p>
+<a href="https://github.com/dianAnton/ijus-chile-web-project" target="_blank">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</a>
+</p>
+</p>El Evangelio de Marcos es un relato dinámico y poderoso sobre la vida, muerte y resurrección de Jesús. Con un estilo directo y lleno de acción, nos invita a conocer a Cristo como el Siervo y Salvador, revelando su amor y autoridad en cada página. Explora este mensaje transformador y sumérgete en el Evangelio que sigue impactando vidas hasta hoy.</p>
+</div>     
 </table> 
 
 <br>
