@@ -60,7 +60,7 @@
 </a>
 </a>
 </p>
-</p>El Evangelio de Marcos es un relato dinámico y poderoso sobre la vida, muerte y resurrección de Jesús. Con un estilo directo y lleno de acción, nos invita a conocer a Cristo como el Siervo y Salvador, revelando su amor y autoridad en cada página. Explora este mensaje transformador y sumérgete en el Evangelio que sigue impactando vidas hasta hoy.</p>
+</p>Jesús nos llama a ser luz en el mundo (Mateo 5:14), y aquí encontrarás un hogar donde podrás conocerle más, ser transformado y caminar en tu propósito. No importa si es tu primera vez en la fe o si llevas años siguiendo a Cristo, ¡aquí hay un lugar para ti!</p>
 </div>     
 </table> 
 
