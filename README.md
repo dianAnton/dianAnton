@@ -50,7 +50,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Iglesia Jesús Único Salvador (IJUS) - Webpage</h3>
+<h3 align="center">Iglesia IJUS - Webpage</h3>
 <div align="center">                                       
 <a href="https://github.com/dianAnton/ijus-chile-web-project " target="_blank"><img src="https://github.com/dianAnton/ijus-chile-web-project/blob/main/presentation.png?raw=true" width="400" alt="Iglesia Jesús Único Salvador (IJUS) - Webpage"></a>
 <br>
