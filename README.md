@@ -61,10 +61,30 @@
 </a>
 </p>
 </p>Jesús nos llama a ser luz en el mundo (Mateo 5:14), y aquí encontrarás un hogar donde podrás conocerle más, ser transformado y caminar en tu propósito. No importa si es tu primera vez en la fe o si llevas años siguiendo a Cristo, ¡aquí hay un lugar para ti!</p>
+</div>   
+
+<tr>
+
+<td width="50%">
+               <br>
+<h3 align="center">UC-Indución Matemática - Landing Page (HTML and CSS project)</h3>
+<div align="center">                                       
+<a href="https://github.com/dianAnton/uc-discrete-math-mathematical-induction-web-project" target="_blank"><img src="https://github.com/dianAnton/uc-discrete-math-mathematical-induction-web-project/blob/main/style/assets/images/Frame2.png?raw=true" width="400" alt="Captura de Pantalla del proyecto en su versión mobile y desktop"></a>
+<br>
+<p>
+<a href="https://github.com/dianAnton/uc-discrete-math-mathematical-induction-web-project" target="_blank">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</a>
+</p>
+</p>Recursos conseguidos de las clases de Matemáticas Discretas (IIC1253) de la Pontificia Universidad Católica de Chile. Práctica de página web responsive y trabajo con diseño utilizando el sofware Figma.</p>
 </div>     
 </table> 
 
-<br>
+<br>  
+</table> 
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
