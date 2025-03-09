@@ -10,7 +10,7 @@
 ## About Me
 
 - ⭐ Computer Science Student at Pontificia Universidad Católica de Chile (UC) ⭐ 
-- 💻 Web developer (Front-End)
+- 💻 Front-End Developer
 - 🖥️ Sofware Developer
 <br>
 
