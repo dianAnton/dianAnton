@@ -34,7 +34,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Evangelio de Marcos - Webpage</h3>
+<h3 align="center">Evangelio de Marcos - Webpage (HTML and CSS project)</h3>
 <div align="center">                                       
 <a href="https://github.com/dianAnton/gospel-of-mark-web-project" target="_blank"><img src="https://github.com/dianAnton/gospel-of-mark-web-project/blob/main/screens.png?raw=true" width="400" alt="Evangelio de Marcos - Webpage"></a>
 <br>
@@ -50,7 +50,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Iglesia IJUS - Webpage</h3>
+<h3 align="center">Iglesia IJUS - Webpage (HTML and CSS project)</h3>
 <div align="center">                                       
 <a href="https://github.com/dianAnton/ijus-chile-web-project " target="_blank"><img src="https://github.com/dianAnton/ijus-chile-web-project/blob/main/presentation.png?raw=true" width="400" alt="Iglesia Jesús Único Salvador (IJUS) - Webpage"></a>
 <br>
