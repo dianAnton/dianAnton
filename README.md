@@ -34,6 +34,22 @@
 
 <td width="50%">
                <br>
+<h3 align="center">Image to ASCII - Retro Terminal style - Webpage</h3>
+<div align="center">                                       
+<a href="https://github.com/dianAnton/retro-terminal-style-web-project-img-to-ASCII" target="_blank"><img src="https://github.com/dianAnton/retro-terminal-style-web-project-img-to-ASCII/blob/main/assets/images/img_1.png?raw=true" width="400" alt="Image to ASCII - Retro Terminal style - Webpage"></a>
+<br>
+<p>
+<a href="https://github.com/dianAnton/retro-terminal-style-web-project-img-to-ASCII" target="_blank">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</a>
+</p>
+</p>Este proyecto es una aplicación web que convierte imágenes en arte ASCII, recreando la estética de terminales retro. La aplicación permite a los usuarios cargar imágenes y transformarlas en caracteres ASCII, con controles para ajustar la resolución del resultado final. La interfaz está diseñada para simular una pantalla CRT (tubo de rayos catódicos) antigua, completa con efectos visuales como líneas de escaneo y parpadeo. </p>
+</div>     
+
+
+<td width="50%">
+               <br>
 <h3 align="center">Evangelio de Marcos - Webpage (HTML and CSS project)</h3>
 <div align="center">                                       
 <a href="https://github.com/dianAnton/gospel-of-mark-web-project" target="_blank"><img src="https://github.com/dianAnton/gospel-of-mark-web-project/blob/main/screens.png?raw=true" width="400" alt="Evangelio de Marcos - Webpage"></a>
@@ -45,8 +61,9 @@
 </a>
 </p>
 </p>El Evangelio de Marcos es un relato dinámico y poderoso sobre la vida, muerte y resurrección de Jesús. Con un estilo directo y lleno de acción, nos invita a conocer a Cristo como el Siervo y Salvador, revelando su amor y autoridad en cada página. Explora este mensaje transformador y sumérgete en el Evangelio que sigue impactando vidas hasta hoy.</p>
-</div>     
+</div>    
 
+<tr>
 
 <td width="50%">
                <br>
@@ -61,24 +78,7 @@
 </a>
 </p>
 </p>Jesús nos llama a ser luz en el mundo (Mateo 5:14), y aquí encontrarás un hogar donde podrás conocerle más, ser transformado y caminar en tu propósito. No importa si es tu primera vez en la fe o si llevas años siguiendo a Cristo, ¡aquí hay un lugar para ti!</p>
-</div>   
-
-<tr>
-
-<td width="50%">
-               <br>
-<h3 align="center">UC-Indución Matemática - Landing Page (HTML and CSS project)</h3>
-<div align="center">                                       
-<a href="https://github.com/dianAnton/uc-discrete-math-mathematical-induction-web-project" target="_blank"><img src="https://github.com/dianAnton/uc-discrete-math-mathematical-induction-web-project/blob/main/style/assets/images/Frame2.png?raw=true" width="400" alt="Captura de Pantalla del proyecto en su versión mobile y desktop"></a>
-<br>
-<p>
-<a href="https://github.com/dianAnton/uc-discrete-math-mathematical-induction-web-project" target="_blank">
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</a>
-</p>
-</p>Recursos conseguidos de las clases de Matemáticas Discretas (IIC1253) de la Pontificia Universidad Católica de Chile. Práctica de página web responsive y trabajo con diseño utilizando el sofware Figma.</p>
-</div>     
+</div>    
 </table> 
 
 </tr>
