@@ -77,7 +77,7 @@
 </a>
 </a>
 </p>
-</p>Jesús nos llama a ser luz en el mundo (Mateo 5:14), y aquí encontrarás un hogar donde podrás conocerle más, ser transformado y caminar en tu propósito. No importa si es tu primera vez en la fe o si llevas años siguiendo a Cristo, ¡aquí hay un lugar para ti!</p>
+</p>Jesús nos llama a ser luz en el mundo (Mateo 5:14), y aquí encontrarás un hogar donde podrás conocerle más, ser transformado y caminar en tu propósito.No importa si es tu primera vez en la fe o si llevas años siguiendo a Cristo, ¡aquí hay un lugar para ti!</p>
 </div>    
 </table> 
 
