@@ -10,6 +10,6 @@
 ### 🏆 &nbsp;Achievements & Certifications
 
 <p align="center">
-  <img height="180em" src="https://github.com/user-attachments/assets/1b0f1cf7-dbd0-4194-99e4-abe3364f53b6" alt="Getting Started with Cisco Packet Tracer"/>
+  <img height="280px" src="https://github.com/user-attachments/assets/ab3696ac-c39f-4741-9634-afd238e02d2a" alt="CS50x Certificate"/>
   
 </p>
