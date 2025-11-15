@@ -7,3 +7,9 @@
 </a>
 </p>
 
+### 🏆 &nbsp;Achievements & Certifications
+
+<p align="center">
+  <img height="180em" src="https://github.com/user-attachments/assets/1b0f1cf7-dbd0-4194-99e4-abe3364f53b6" alt="Getting Started with Cisco Packet Tracer"/>
+  
+</p>
