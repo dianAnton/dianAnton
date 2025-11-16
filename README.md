@@ -10,6 +10,6 @@
 ### 🏆 &nbsp;Achievements & Certifications
 
 <p align="center">
-  <img height="280px" src="https://github.com/user-attachments/assets/ab3696ac-c39f-4741-9634-afd238e02d2a" alt="CS50x Certificate"/>
-  
+  <img width="380" height="380" alt="CS50x-Certificate" src="https://github.com/user-attachments/assets/4d907c4a-2c16-483c-a2f0-952f67d9fd62" style="box-shadow: 3px 3px 3px gray;"/>
+
 </p>
