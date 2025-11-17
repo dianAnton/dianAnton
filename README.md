@@ -48,6 +48,26 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="5%">
+      <h3 align="center">Cosmos Collections Dept. (DCC) - Space Logistics System</h3>
+      <div align="center">
+        <a href="https://github.com/dianAnton/Cosmos-Collections-Dept.-DCC-Space-Logistics-System" target="_blank">
+          <img src="https://github.com/user-attachments/assets/d1730180-2d8c-464e-9cd1-210df6a7f329" width="70%" alt="Retro-Terminal-Image-to-ASCII-Converter"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">
+        A high-efficiency space resource management platform built with Python and PyQt5. Developed as project for Advanced Programming at Pontificia Universidad Católica de Chile.
+      </p>
+      <p align="center">
+        <code>PYTHON</code> <code>PYQT5</code> <code>FUNCTIONAL PARADIGM</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/dianAnton/Cosmos-Collections-Dept.-DCC-Space-Logistics-System"><strong>📂 Ver Código</strong></a> &nbsp;</a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 
