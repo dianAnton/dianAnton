@@ -7,19 +7,6 @@
 </a>
 </p>
 
-### 🏆 &nbsp;Achievements & Certifications
-
-<table align="center">
-  <tr>
-    <td>Hackathon Accenture PUC 2024 - Winner</td>
-     <td>Harvard's CS50 Course Certificate</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/9f9bc1d3-b722-439b-943c-b8c3a20de0f8" width=270 height=280></td>
-    <td><img src="https://github.com/user-attachments/assets/b4797104-786b-443b-a353-9d2c3a871567" width=270 height=280></td>
-  </tr>
- </table>
-
 ### 🚀 &nbsp;Featured Projects
 
 <table align="center">
@@ -62,3 +49,17 @@
     </td>
   </tr>
 </table>
+
+
+### 🏆 &nbsp;Achievements & Certifications
+
+<table align="center">
+  <tr>
+    <td>Hackathon Accenture PUC 2024 - Winner</td>
+     <td>Harvard's CS50 Course Certificate</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/9f9bc1d3-b722-439b-943c-b8c3a20de0f8" width=270 height=280></td>
+    <td><img src="https://github.com/user-attachments/assets/b4797104-786b-443b-a353-9d2c3a871567" width=270 height=280></td>
+  </tr>
+ </table>
