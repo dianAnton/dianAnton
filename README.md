@@ -9,7 +9,13 @@
 
 ### 🏆 &nbsp;Achievements & Certifications
 
-<p align="center">
-  <img width="380" height="380" alt="CS50x-Certificate" src="https://github.com/user-attachments/assets/4d907c4a-2c16-483c-a2f0-952f67d9fd62" style="box-shadow: 3px 3px 3px gray;"/>
-
-</p>
+<table align="center">
+  <tr>
+    <td>Hackathon Accenture PUC 2024 - Winner</td>
+     <td>Harvard's CS50 Course Certificate</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/9f9bc1d3-b722-439b-943c-b8c3a20de0f8" width=270 height=280></td>
+    <td><img src="https://github.com/user-attachments/assets/b4797104-786b-443b-a353-9d2c3a871567" width=270 height=280></td>
+  </tr>
+ </table>
