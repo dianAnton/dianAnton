@@ -24,7 +24,7 @@
 
 <table align="center">
   <tr>
-    <td width="50%">
+    <td width="5%">
       <h3 align="center">Retro Terminal: Image to ASCII</h3>
       <div align="center">
         <a href="https://github.com/dianAnton/Retro-Terminal-Image-to-ASCII-Converter" target="_blank">
