@@ -67,6 +67,25 @@
         <a href="https://github.com/dianAnton/Cosmos-Collections-Dept.-DCC-Space-Logistics-System"><strong>📂 Ver Código</strong></a> &nbsp;</a>
       </p>
     </td>
+    <td width="5%">
+      <h3 align="center">DCCloud: Enterprise Network Infrastructure Simulation</h3>
+      <div align="center">
+        <a href="https://github.com/dianAnton/DCCloud" target="_blank">
+          <img src="https://github.com/user-attachments/assets/be0557cb-5a6b-44d8-a21f-f93e785bd735" width="70%" alt="Retro-Terminal-Image-to-ASCII-Converter"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">
+       A comprehensive network topology simulation designed to restore and secure connectivity between residential, public, and enterprise zones.
+      </p>
+      <p align="center">
+        <code>CISCO PACKET TRACER</code> <code>NETWORKING</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/dianAnton/DCCloud"><strong>📂 Ver Código</strong></a> &nbsp;</a>
+      </p>
+    </td>
+  
   </tr>
 </table>
 
