@@ -76,7 +76,7 @@
       </div>
       <br/>
       <p align="center">
-       A comprehensive network topology simulation designed to restore and secure connectivity between residential, public, and enterprise zones.
+       A comprehensive network topology simulation designed to restore and secure connectivity between residential, public, and enterprise zones. Developed as project for Operating Systems and Networking at Pontificia Universidad Católica de Chile.
       </p>
       <p align="center">
         <code>CISCO PACKET TRACER</code> <code>NETWORKING</code>
