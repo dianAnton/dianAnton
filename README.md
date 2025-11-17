@@ -28,7 +28,7 @@
       <h3 align="center">Retro Terminal: Image to ASCII</h3>
       <div align="center">
         <a href="https://github.com/dianAnton/Retro-Terminal-Image-to-ASCII-Converter" target="_blank">
-          <img src="https://github.com/user-attachments/assets/7387c0f3-9260-4d85-9678-410a6673fe55" width="50%" alt="Retro-Terminal-Image-to-ASCII-Converter"/>
+          <img src="https://github.com/user-attachments/assets/7387c0f3-9260-4d85-9678-410a6673fe55" width="70%" alt="Retro-Terminal-Image-to-ASCII-Converter"/>
         </a>
       </div>
       <br/>
@@ -40,6 +40,24 @@
       </p>
       <p align="center">
         <a href="https://github.com/dianAnton/Retro-Terminal-Image-to-ASCII-Converter"><strong>📂 Ver Código</strong></a> &nbsp; • &nbsp; <a href="https://imagetoascii-retro-terminal.netlify.app/"><strong>🖥️ Live Demo</strong></a>
+      </p>
+    </td>
+    <td width="5%">
+      <h3 align="center">Thermes: Terminal-Style AI Chatbot</h3>
+      <div align="center">
+        <a href="https://github.com/ThermesUC/Thermes-AI" target="_blank">
+          <img width="70%" alt="ThermesAI" src="https://github.com/user-attachments/assets/0c1f6ea2-f128-4e9e-82b3-04d842a4af00" />
+        </a>
+      </div>
+      <br/>
+      <p align="center">
+        A specialized conversational AI agent wrapped in a nostalgic Command Line Interface (CLI). Developed for the Accenture UC 2024 Hackathon.
+      </p>
+      <p align="center">
+        <code>PYTHON</code> <code>FLASK</code> <code>OPENAI</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/ThermesUC/Thermes-AI"><strong>📂 Ver Código</strong></a> &nbsp;</a>
       </p>
     </td>
   </tr>
