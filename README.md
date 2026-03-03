@@ -87,6 +87,28 @@
     </td>
   
   </tr>
+  <tr>
+    <td width="5%">
+      <h3 align="center">IJUS - Iglesia Jesucristo Único Salvador</h3>
+      <div align="center">
+        <a href="https://github.com/dianAnton/IJUS-Website" target="_blank">
+          <img src="https://github.com/user-attachments/assets/95d5eb1e-3a7e-4ce1-9394-eedd451b1fc0" width="70%" alt="IJUS-Webside"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">
+        A modern, lightning-fast landing page and visitor management system for Iglesia IJUS
+      </p>
+      <p align="center">
+        <code>SUPABASE</code> <code>REACT</code> <code>VITE</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/dianAnton/IJUS-Website"><strong>📂 Ver Código</strong></a> &nbsp;</a>
+      </p>
+    </td>
+    
+  
+  </tr>
 </table>
 
 
