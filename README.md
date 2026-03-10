@@ -106,8 +106,25 @@
         <a href="https://github.com/dianAnton/IJUS-Website"><strong>📂 Ver Código</strong></a> &nbsp;</a>
       </p>
     </td>
+    <td width="5%">
+      <h3 align="center">WMS - Database - Project</h3>
+      <div align="center">
+        <a href="https://github.com/dianAnton/WMS_Database_Project" target="_blank">
+          <img src="https://github.com/user-attachments/assets/54e890b7-1789-4557-bd83-b9f2241b4ca0" width="70%" alt="WMS_Database_Project"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">
+        A high-scale warehouse management simulation designed to optimize storage, tracking, and visibility of cosmetic inventory across a 3-story physical infrastructure.
+      </p>
+      <p align="center">
+        <code>PHP</code> <code>POSTGRESQL</code> <code>APACHE</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/dianAnton/WMS_Database_Project"><strong>📂 Ver Código</strong></a> &nbsp;</a>
+      </p>
+    </td>
     
-  
   </tr>
 </table>
 
