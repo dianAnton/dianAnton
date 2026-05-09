@@ -137,7 +137,7 @@
      <td>Harvard's CS50 Course Certificate</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/9f9bc1d3-b722-439b-943c-b8c3a20de0f8" width=270 height=280></td>
-    <td><img src="https://github.com/user-attachments/assets/b4797104-786b-443b-a353-9d2c3a871567" width=270 height=280></td>
+    <td><img src="https://github.com/user-attachments/assets/9f9bc1d3-b722-439b-943c-b8c3a20de0f8" width=270 height=220></td>
+    <td><img src="https://github.com/user-attachments/assets/b4797104-786b-443b-a353-9d2c3a871567" width=270 height=220></td>
   </tr>
  </table>
